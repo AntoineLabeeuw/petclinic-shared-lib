@@ -1,0 +1,7 @@
+<p>
+  La directive mavenProject permet de compiler, lancer les tests et d'envoyer une notification de l'état (success/ failure)
+  Exemple d'utilisation :
+</p> 
+<pre>
+      mavenProject()
+</pre>
